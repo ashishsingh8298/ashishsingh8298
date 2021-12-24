@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Hello! I am Ashish Singh. Digital Specialist Engineer working on .NET core full stack Web Development. I am always curious to learn something new.
+Hello! I am Ashish Singh. Specialist Programmer working on .NET core full stack Web Development. I am always curious to learn something new.
 
 
 
