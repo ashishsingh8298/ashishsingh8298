@@ -4,14 +4,14 @@
 
 ### Hi there 👋
 
-Hello! I am Ashish Singh. Specialist Programmer working on .NET core full stack Web Development. I am always curious to learn something new.
+Hello! I am Ashish Singh. Senior Full Stack Developer working on .NET core full stack Web Development. I am always curious to learn something new.
 
 
 
 
-- 🌱 I’m currently learning **Azure Security**.
+- 🌱 I’m currently learning **Azure Security**, ** System Design **.
 
-- 💬 Ask me about DSA, .NET, Angular or MEAN.
+- 💬 Ask me about DSA, .NET, Angular, React, Azure or MEAN.
 
 - 📫 ***How to reach me***: Contact me directly on this mail [ashsihs41@gmail.com](mailto:ashsihs41@gmail.com).
 
