@@ -9,7 +9,7 @@ Hello! I am Ashish Singh. Senior Full Stack Developer working on .NET core full 
 
 
 
-- 🌱 I’m currently learning **Azure Security**, ** System Design **.
+- 🌱 I’m currently learning **Azure Security**, **System Design**.
 
 - 💬 Ask me about DSA, .NET, Angular, React, Azure or MEAN.
 
