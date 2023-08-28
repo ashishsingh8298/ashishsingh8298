@@ -11,7 +11,7 @@ Hello! I am Ashish Singh. Senior Full Stack Developer working on .NET core full 
 
 - 🌱 I’m currently learning **Azure Security**, **System Design**.
 
-- 💬 Ask me about DSA, .NET, Angular, React, Azure or MEAN.
+- 💬 Ask me about DSA, .NET, Angular, React, Azure, OpenAI, Python or MEAN.
 
 - 📫 ***How to reach me***: Contact me directly on this mail [ashsihs41@gmail.com](mailto:ashsihs41@gmail.com).
 
